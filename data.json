@@ -1,127 +1,148 @@
 {
     "products": [
         {
-            "name": "Producto 1",
+            "id": 1,
+            "name": "Paris",
             "precio": "570",
             "categoria": "bolsos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/I/PI02850NUAA2000_0_2.jpg"
         },
         {
-            "name": "Producto 2",
+            "id": 2,
+            "name": "Roma",
             "precio": "650",
             "categoria": "bolsos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009920GS0Q3000_0_2.jpg"
         },
         {
-            "name": "Producto 3",
+            "id": 3,
+            "name": "Belgica",
             "precio": "550",
             "categoria": "bolsitos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 4",
+            "id": 4,
+            "name": "Berlin",
             "precio": "450",
             "categoria": "bolsitos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 5",
+            "id": 5,
+            "name": "Sevilla",
             "precio": "350",
             "categoria": "carteras",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 6",
+            "id": 6,
+            "name": "Malaga",
             "precio": "250",
             "categoria": "zapatos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 7",
+            "id": 7,
+            "name": "Madrid",
             "precio": "150",
             "categoria": "zapatos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 1",
+            "id": 8,
+            "name": "Galicia",
             "precio": "570",
             "categoria": "bolsos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/I/PI02850NUAA2000_0_2.jpg"
         },
         {
-            "name": "Producto 2",
+            "id": 9,
+            "name": "Amsterdam",
             "precio": "650",
             "categoria": "bolsos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009920GS0Q3000_0_2.jpg"
         },
         {
-            "name": "Producto 3",
+            "id": 10,
+            "name": "Toledo",
             "precio": "550",
             "categoria": "bolsitos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 4",
+            "id": 11,
+            "name": "Coruna",
             "precio": "450",
             "categoria": "bolsitos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 5",
+            "id": 12,
+            "name": "Granada",
             "precio": "350",
             "categoria": "carteras",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 6",
+            "id": 13,
+            "name": "Portugal",
             "precio": "250",
             "categoria": "zapatos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 7",
+            "id": 14,
+            "name": "Marrakesh",
             "precio": "150",
             "categoria": "zapatos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 1",
+            "id": 15,
+            "name": "Barcelona",
             "precio": "570",
             "categoria": "bolsos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/I/PI02850NUAA2000_0_2.jpg"
         },
         {
-            "name": "Producto 2",
+            "id": 16,
+            "name": "Lisboa",
             "precio": "650",
             "categoria": "bolsos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009920GS0Q3000_0_2.jpg"
         },
         {
-            "name": "Producto 3",
+            "id": 17,
+            "name": "Buenos Aires",
             "precio": "550",
             "categoria": "bolsitos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 4",
+            "id": 18,
+            "name": "Atenas",
             "precio": "450",
             "categoria": "bolsitos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 5",
+            "id": 19,
+            "name": "Santa Fe",
             "precio": "350",
             "categoria": "carteras",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 6",
+            "id": 20,
+            "name": "Bahia Blanca",
             "precio": "250",
             "categoria": "zapatos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         },
         {
-            "name": "Producto 7",
+            "id": 21,
+            "name": "Rosario",
             "precio": "150",
             "categoria": "zapatos",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
