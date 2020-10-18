@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name": "Producto 1",
+            "precio": "50",
+            "categoria": "bolsos"
+        },
+        {
+            "name": "Producto 1",
+            "precio": "50",
+            "categoria": "bolsos"
+        },
+        {
+            "name": "Producto 1",
+            "precio": "50",
+            "categoria": "bolsos"
+        }
+    ]
+}
