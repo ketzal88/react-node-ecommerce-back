@@ -41,4 +41,15 @@ app.get("/products/category/:category", function (req, res) {
   res.status(200).send({ product });
 });
 
+///// Endpoint Products by category ////
+app.get("/products/price/:min/:max", function (req, res) {
+  const min = req.params.min;
+  const max = req.params.max;
+  function findMinMax(products, min, max) {
+    return products.filter((item) => item.precio >= min && item.precio <= max);
+  }
+  const product = findMinMax(products.products, min, max);
+  res.status(200).send({ product });
+});
+
 module.exports = app;
