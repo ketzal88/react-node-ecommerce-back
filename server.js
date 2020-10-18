@@ -20,7 +20,7 @@ var headers = {
 
 
 ///// Endpoint All Products ////
-app.get("/", function (req, res) {
+app.get("/products", function (req, res) {
   axios
     .get("https://rapidapi.p.rapidapi.com/catalog/products", { headers })
     .then((response) => {
@@ -32,7 +32,7 @@ app.get("/", function (req, res) {
 });
 
 ///// Endpoint Single Product by ID ////
-app.get("/:id", function (req, res) {
+app.get("/products/:id", function (req, res) {
     axios
       .get("https://rapidapi.p.rapidapi.com/catalog/product/" + req.params.id, { headers })
       .then((response) => {
