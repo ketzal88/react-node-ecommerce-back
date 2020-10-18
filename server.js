@@ -29,6 +29,16 @@ app.get("/products/:search", function (req, res) {
   res.status(200).send({ product });
 });
 
+///// Endpoint Product by ID ////
+app.get("/product/:id", function (req, res) {
+  const id = req.params.id;
+  function findProduct(id, products) {
+    return products.filter(produ => id.includes(produ.id)).map(produ => produ)
+  }
+  const product = findProduct(id, products.products);
+  res.status(200).send({ product });
+});
+
 ///// Endpoint Products by category ////
 app.get("/products/category/:category", function (req, res) {
   const category = req.params.category;
@@ -41,7 +51,7 @@ app.get("/products/category/:category", function (req, res) {
   res.status(200).send({ product });
 });
 
-///// Endpoint Products by category ////
+///// Endpoint Products by price min and max ////
 app.get("/products/price/:min/:max", function (req, res) {
   const min = req.params.min;
   const max = req.params.max;
