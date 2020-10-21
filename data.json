@@ -167,6 +167,54 @@
             "categoria": "zapatos",
             "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Lisboa",
+            "precio": "650",
+            "categoria": "bolsos",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009920GS0Q3000_0_2.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Buenos Aires",
+            "precio": "550",
+            "categoria": "bolsitos",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Atenas",
+            "precio": "450",
+            "categoria": "bolsitos",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Santa Fe",
+            "precio": "350",
+            "categoria": "carteras",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Bahia Blanca",
+            "precio": "250",
+            "categoria": "zapatos",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Rosario",
+            "precio": "150",
+            "categoria": "zapatos",
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "img": "https://www.prune.com.ar/media/catalog/product/cache/48a04200998cde1bd0724f004dc7dd57/P/0/P009999F00Q5000_0_1.jpg"
         }
     ]
 }
